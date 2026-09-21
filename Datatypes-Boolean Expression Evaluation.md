@@ -1,6 +1,11 @@
 
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
+## Student Details
+
+- **Name:** Yuvan Raj M
+- **Register Number:** 212223080062
+
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
